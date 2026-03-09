@@ -20,6 +20,18 @@ These repositories demonstrate how I approach product strategy, AI systems desig
 
 ---
 
+## Product Walkthrough
+
+AI Resident Retention Platform demo
+
+[![Watch the walkthrough](https://raw.githubusercontent.com/PatrickImperato/happyco-resident-retention-platform/main/assets/product-walkthrough-thumb.jpg)](https://youtu.be/lPwLeqQauww)
+
+Direct link
+
+https://youtu.be/lPwLeqQauww
+
+---
+
 # Product Example
 
 Resident retention operations dashboard from the HappyCo product case study.
