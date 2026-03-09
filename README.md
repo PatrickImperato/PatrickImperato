@@ -1,10 +1,8 @@
 # Patrick Imperato
 
 ![AI Product Management](https://img.shields.io/badge/AI-Product%20Management-blue)
-![Machine Learning Systems](https://img.shields.io/badge/Machine%20Learning-Systems-green)
+![Operational Software](https://img.shields.io/badge/Operational-Software-orange)
 ![Data Products](https://img.shields.io/badge/Data-Products-purple)
-![Operational Platforms](https://img.shields.io/badge/Operational-Platforms-orange)
-![Product Strategy](https://img.shields.io/badge/Product-Strategy-darkblue)
 
 Technical Product Leader building reliable AI systems, operational software, and data driven platforms.
 
@@ -30,7 +28,7 @@ These public repositories show how I approach product strategy, user workflows, 
 
 Resident retention operations dashboard from the HappyCo product case study.
 
-![Retention Dashboard](https://raw.githubusercontent.com/PatrickImperato/happyco-resident-retention-platform/main/assets/dashboard.png)
+![Retention Dashboard](https://raw.githubusercontent.com/PatrickImperato/happyco-resident-retention-platform/main/assets/manager-dashboard.png)
 
 ---
 
@@ -45,7 +43,7 @@ AI powered resident retention product case study showing how property teams can
 • track financial impact of retention actions  
 
 Repository  
-https://github.com/PatrickImperato/happyco-resident-retention-platform
+[github.com/PatrickImperato/happyco-resident-retention-platform](https://github.com/PatrickImperato/happyco-resident-retention-platform)
 
 ---
 
@@ -61,7 +59,7 @@ Demonstrates
 • staged rollout strategy  
 
 Repository  
-https://github.com/PatrickImperato/aireliabilitydebrief
+[github.com/PatrickImperato/aireliabilitydebrief](https://github.com/PatrickImperato/aireliabilitydebrief)
 
 ---
 
@@ -70,7 +68,7 @@ https://github.com/PatrickImperato/aireliabilitydebrief
 Applied NLP workflow showing how messy real estate listing descriptions can be converted into structured unit mix data for underwriting and portfolio analysis.
 
 Repository  
-https://github.com/PatrickImperato/real-estate-unit-mix-extraction
+[github.com/PatrickImperato/real-estate-unit-mix-extraction](https://github.com/PatrickImperato/real-estate-unit-mix-extraction)
 
 ---
 
@@ -92,7 +90,7 @@ Typical problems I work on include
 • translating operator workflows into software systems  
 • designing AI systems that produce trustworthy outputs  
 • building software in constrained real world environments  
-• converting messy real world data into structured decision tools  
+• converting messy real world data into structured decision tools
 
 ---
 
@@ -103,7 +101,7 @@ My work sits at the intersection of
 • product strategy  
 • technical system design  
 • operational workflows  
-• AI enabled decision systems  
+• AI enabled decision systems
 
 I enjoy working on complex products where tradeoffs are real and execution quality matters.
 
@@ -112,7 +110,7 @@ I enjoy working on complex products where tradeoffs are real and execution quali
 # Connect
 
 LinkedIn  
-https://www.linkedin.com/in/patrickimperato/
+[linkedin.com/in/patrickimperato](https://www.linkedin.com/in/patrickimperato/)
 
 GitHub  
-https://github.com/PatrickImperato
+[github.com/PatrickImperato](https://github.com/PatrickImperato)
