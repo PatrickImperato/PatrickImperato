@@ -113,16 +113,3 @@ GitHub
 
 ---
 
-# Development Activity
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickImperato&show_icons=true&theme=github_dark&cache_seconds=1800)
-
----
-
-# Featured Repositories
-
-[![Retention Platform](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=happyco-resident-retention-platform&theme=github_dark&cache_seconds=1800)](https://github.com/PatrickImperato/happyco-resident-retention-platform)
-
-[![AI Reliability](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=aireliabilitydebrief&theme=github_dark&cache_seconds=1800)](https://github.com/PatrickImperato/aireliabilitydebrief)
-
-[![Unit Mix Extraction](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=real-estate-unit-mix-extraction&theme=github_dark&cache_seconds=1800)](https://github.com/PatrickImperato/real-estate-unit-mix-extraction)
