@@ -10,13 +10,13 @@ These public repositories demonstrate how I think about product strategy, AI sys
 
 ---
 
-# Portfolio
+## Portfolio
 
 | Project | Description |
-|------|-------------|
-| **HappyCo Resident Retention Platform** | AI product case study showing how property teams can predict and prevent resident turnover |
-| **AI Reliability Debrief** | Reliability first AI architecture with evaluation scoring and governance |
-| **Real Estate Unit Mix Extraction** | NLP workflow converting messy real estate listings into structured underwriting data |
+|--------|-------------|
+| [HappyCo Resident Retention Platform](https://github.com/PatrickImperato/happyco-resident-retention-platform) | AI product case study showing how property teams can predict and prevent resident turnover |
+| [AI Reliability Debrief](https://github.com/PatrickImperato/aireliabilitydebrief) | Reliability first AI architecture with evaluation scoring and governance |
+| [Real Estate Unit Mix Extraction](https://github.com/PatrickImperato/real-estate-unit-mix-extraction) | NLP workflow converting messy real estate listings into structured underwriting data |
 
 ---
 
