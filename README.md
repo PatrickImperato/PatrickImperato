@@ -4,9 +4,9 @@ Product Leader building AI systems, operational software, and data platforms.
 
 Former U.S. Navy fighter pilot turned product leader focused on systems where reliability, trust, and execution quality matter.
 
-Most of my highest impact work cannot be shared publicly because it sits inside regulated and secure environments.
+Most of my highest impact work sits inside regulated and secure environments and cannot be shared publicly.  
 
-These public repositories demonstrate how I think about product strategy, AI systems, workflow design, and complex software delivery.
+These repositories demonstrate how I approach product strategy, AI systems design, operational workflows, and complex software delivery.
 
 ---
 
