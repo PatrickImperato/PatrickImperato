@@ -1,16 +1,12 @@
 # Patrick Imperato
 
-![AI Product Management](https://img.shields.io/badge/AI-Product%20Management-blue)
-![Operational Software](https://img.shields.io/badge/Operational-Software-orange)
-![Data Products](https://img.shields.io/badge/Data-Products-purple)
+Product Leader building AI enabled software, operational platforms, and data driven products.
 
-Technical Product Leader building reliable AI systems, operational software, and data driven platforms.
-
-Former U.S. Navy F A 18 fighter pilot turned product leader focused on systems where reliability, trust, and execution quality matter.
+Former U.S. Navy fighter pilot turned product leader focused on systems where reliability, trust, and execution quality matter.
 
 Most of my highest impact work cannot be shared publicly because it sits inside regulated and secure operating environments.
 
-These public repositories show how I approach product strategy, user workflows, AI systems, and complex product delivery.
+These public repositories demonstrate how I think about product strategy, AI systems, user workflows, and complex product delivery.
 
 ---
 
@@ -32,7 +28,7 @@ Resident retention operations dashboard from the HappyCo product case study.
 
 ---
 
-# Selected Work
+# Representative Product Work
 
 ## HappyCo Resident Retention Platform
 
@@ -114,3 +110,19 @@ LinkedIn
 
 GitHub  
 [github.com/PatrickImperato](https://github.com/PatrickImperato)
+
+---
+
+# Development Activity
+
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickImperato&show_icons=true&theme=github_dark)
+
+---
+
+# Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=happyco-resident-retention-platform&theme=github_dark)](https://github.com/PatrickImperato/happyco-resident-retention-platform)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=aireliabilitydebrief&theme=github_dark)](https://github.com/PatrickImperato/aireliabilitydebrief)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickImperato&repo=real-estate-unit-mix-extraction&theme=github_dark)](https://github.com/PatrickImperato/real-estate-unit-mix-extraction)
