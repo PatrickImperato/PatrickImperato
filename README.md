@@ -1,12 +1,12 @@
 # Patrick Imperato
 
-Product Leader building AI enabled software, operational platforms, and data driven products.
+Product Leader building AI systems, operational software, and data platforms.
 
 Former U.S. Navy fighter pilot turned product leader focused on systems where reliability, trust, and execution quality matter.
 
-Most of my highest impact work cannot be shared publicly because it sits inside regulated and secure operating environments.
+Most of my highest impact work cannot be shared publicly because it sits inside regulated and secure environments.
 
-These public repositories demonstrate how I think about product strategy, AI systems, user workflows, and complex product delivery.
+These public repositories demonstrate how I think about product strategy, AI systems, workflow design, and complex software delivery.
 
 ---
 
