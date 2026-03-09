@@ -1,20 +1,26 @@
 # Patrick Imperato
 
-Technical Product Leader building reliable AI, operational software, and workflow driven products in high accountability environments.
+![AI Product Management](https://img.shields.io/badge/AI-Product%20Management-blue)
+![Machine Learning Systems](https://img.shields.io/badge/Machine%20Learning-Systems-green)
+![Data Products](https://img.shields.io/badge/Data-Products-purple)
+![Operational Platforms](https://img.shields.io/badge/Operational-Platforms-orange)
+![Product Strategy](https://img.shields.io/badge/Product-Strategy-darkblue)
 
-Former U.S. Navy F/A-18 fighter pilot turned product leader focused on systems where trust, reliability, and execution quality matter.
+Technical Product Leader building reliable AI systems, operational software, and data driven platforms.
 
-Most of my highest impact work cannot be shared publicly because it sits inside defense, regulated, or confidential operating environments.
+Former U.S. Navy F A 18 fighter pilot turned product leader focused on systems where reliability, trust, and execution quality matter.
 
-These public repositories show how I approach product strategy, user workflows, AI systems, and delivery in complex environments.
+Most of my highest impact work cannot be shared publicly because it sits inside regulated and secure operating environments.
+
+These public repositories show how I approach product strategy, user workflows, AI systems, and complex product delivery.
 
 ---
 
 # Portfolio
 
 | Project | Description |
-|-------|-------------|
-| **HappyCo Resident Retention Platform** | AI powered product case study showing how property teams can predict and prevent resident turnover |
+|------|-------------|
+| **HappyCo Resident Retention Platform** | AI product case study showing how property teams can predict and prevent resident turnover |
 | **AI Reliability Debrief** | Reliability first AI architecture with evaluation scoring and governance |
 | **Real Estate Unit Mix Extraction** | NLP workflow converting messy real estate listings into structured underwriting data |
 
@@ -24,15 +30,15 @@ These public repositories show how I approach product strategy, user workflows, 
 
 Resident retention operations dashboard from the HappyCo product case study.
 
-![Retention Dashboard](https://github.com/PatrickImperato/happyco-resident-retention-platform/blob/main/assets/dashboard.png)
+![Retention Dashboard](https://raw.githubusercontent.com/PatrickImperato/happyco-resident-retention-platform/main/assets/dashboard.png)
 
 ---
 
 # Selected Work
 
-### HappyCo Resident Retention Platform
+## HappyCo Resident Retention Platform
 
-AI powered resident retention product case study showing how property teams can:
+AI powered resident retention product case study showing how property teams can
 
 • identify residents at risk of leaving  
 • trigger targeted retention interventions  
@@ -43,11 +49,11 @@ https://github.com/PatrickImperato/happyco-resident-retention-platform
 
 ---
 
-### AI Reliability Debrief
+## AI Reliability Debrief
 
 Reliability first AI system architecture designed for environments where outputs must be trusted and auditable.
 
-The system demonstrates:
+Demonstrates
 
 • structured outputs  
 • schema validation  
@@ -59,7 +65,7 @@ https://github.com/PatrickImperato/aireliabilitydebrief
 
 ---
 
-### Real Estate Unit Mix Extraction
+## Real Estate Unit Mix Extraction
 
 Applied NLP workflow showing how messy real estate listing descriptions can be converted into structured unit mix data for underwriting and portfolio analysis.
 
@@ -70,10 +76,10 @@ https://github.com/PatrickImperato/real-estate-unit-mix-extraction
 
 # Experience Snapshot
 
-• Product Manager for mission critical military training simulators  
-• Former U.S. Navy F/A-18 fighter pilot  
-• Built distributed software systems across secure and regulated environments  
+• Product leader for complex distributed software platforms  
+• Built mission critical training and simulation systems  
 • Managed multi year product roadmaps and eight figure programs  
+• Led cross functional engineering teams delivering operational software
 
 ---
 
@@ -81,25 +87,25 @@ https://github.com/PatrickImperato/real-estate-unit-mix-extraction
 
 I focus on products where reliability and operational outcomes matter.
 
-Typical problems I work on include:
+Typical problems I work on include
 
 • translating operator workflows into software systems  
 • designing AI systems that produce trustworthy outputs  
-• building products in constrained environments  
-• turning messy real world data into structured decision tools  
+• building software in constrained real world environments  
+• converting messy real world data into structured decision tools  
 
 ---
 
 # Background
 
-My work sits at the intersection of:
+My work sits at the intersection of
 
 • product strategy  
 • technical system design  
 • operational workflows  
-• high consequence environments  
+• AI enabled decision systems  
 
-I enjoy working on problems where tradeoffs are real and execution quality matters.
+I enjoy working on complex products where tradeoffs are real and execution quality matters.
 
 ---
 
