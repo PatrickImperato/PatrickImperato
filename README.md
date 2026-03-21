@@ -14,9 +14,11 @@ These repositories demonstrate how I approach product strategy, AI systems desig
 
 | Project | Description |
 |--------|-------------|
-| [HappyCo Resident Retention Platform](https://github.com/PatrickImperato/happyco-resident-retention-platform) | AI product case study showing how property teams can predict and prevent resident turnover |
+| [Recall Engine](https://github.com/PatrickImperato/recallengine) | Platform for meeting recall using approved data, scoped memory, and evidence backed briefs |
 | [AI Reliability Debrief](https://github.com/PatrickImperato/aireliabilitydebrief) | Reliability first AI architecture with evaluation scoring and governance |
+| [Property Ops Data System](https://github.com/PatrickImperato/propertyopsdatasystem) | Local first workflow for charge review, monthly reporting, and pre call preparation |
 | [Real Estate Unit Mix Extraction](https://github.com/PatrickImperato/real-estate-unit-mix-extraction) | NLP workflow converting messy real estate listings into structured underwriting data |
+| [HappyCo Resident Retention Platform](https://github.com/PatrickImperato/happyco-resident-retention-platform) | AI product case study showing how property teams can predict and prevent resident turnover |
 
 ---
 
@@ -42,16 +44,18 @@ Resident retention operations dashboard from the HappyCo product case study.
 
 # Representative Product Work
 
-## HappyCo Resident Retention Platform
+## Recall Engine
 
-AI powered resident retention product case study showing how property teams can
+In progress product concept for trusted meeting recall and evidence backed pre call briefs.
 
-• identify residents at risk of leaving  
-• trigger targeted retention interventions  
-• track financial impact of retention actions  
+Focused on how teams can
+
+• retain useful context across prior calls and notes  
+• generate pre call briefs grounded in approved sources  
+• keep trust high through scoped memory and evidence backed outputs  
 
 Repository  
-[github.com/PatrickImperato/happyco-resident-retention-platform](https://github.com/PatrickImperato/happyco-resident-retention-platform)
+[github.com/PatrickImperato/recallengine](https://github.com/PatrickImperato/recallengine)
 
 ---
 
@@ -71,12 +75,40 @@ Repository
 
 ---
 
+## Property Ops Data System
+
+Local first data workflow for charge review, monthly reporting, and pre call preparation.
+
+Shows how operators can
+
+• combine fragmented operating inputs into one review flow  
+• flag exceptions and issues that need follow up  
+• generate dashboard summaries and pre call reporting from structured data  
+
+Repository  
+[github.com/PatrickImperato/propertyopsdatasystem](https://github.com/PatrickImperato/propertyopsdatasystem)
+
+---
+
 ## Real Estate Unit Mix Extraction
 
 Applied NLP workflow showing how messy real estate listing descriptions can be converted into structured unit mix data for underwriting and portfolio analysis.
 
 Repository  
 [github.com/PatrickImperato/real-estate-unit-mix-extraction](https://github.com/PatrickImperato/real-estate-unit-mix-extraction)
+
+---
+
+## HappyCo Resident Retention Platform
+
+AI powered resident retention product case study showing how property teams can
+
+• identify residents at risk of leaving  
+• trigger targeted retention interventions  
+• track financial impact of retention actions  
+
+Repository  
+[github.com/PatrickImperato/happyco-resident-retention-platform](https://github.com/PatrickImperato/happyco-resident-retention-platform)
 
 ---
 
