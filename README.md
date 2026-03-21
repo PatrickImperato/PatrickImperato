@@ -14,11 +14,11 @@ These repositories demonstrate how I approach product strategy, AI systems desig
 
 | Project | Description |
 |--------|-------------|
-| [Recall Engine](https://github.com/PatrickImperato/recallengine) | Platform for meeting recall using approved data, scoped memory, and evidence backed briefs |
+| [Recall Engine](https://github.com/PatrickImperato/recallengine) |  Meeting recall platform using approved data, scoped memory, and evidence backed briefs |
 | [AI Reliability Debrief](https://github.com/PatrickImperato/aireliabilitydebrief) | Reliability first AI architecture with evaluation scoring and governance |
 | [Property Ops Data System](https://github.com/PatrickImperato/propertyopsdatasystem) | Local first workflow for charge review, monthly reporting, and pre call preparation |
 | [Real Estate Unit Mix Extraction](https://github.com/PatrickImperato/real-estate-unit-mix-extraction) | NLP workflow converting messy real estate listings into structured underwriting data |
-| [HappyCo Resident Retention Platform](https://github.com/PatrickImperato/happyco-resident-retention-platform) | AI product case study showing how property teams can predict and prevent resident turnover |
+| [Resident Retention Platform](https://github.com/PatrickImperato/happyco-resident-retention-platform) | AI product case study on how property teams can predict and prevent resident turnover |
 
 ---
 
