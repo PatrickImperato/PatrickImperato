@@ -36,7 +36,7 @@ https://youtu.be/lPwLeqQauww
 
 # Product Example
 
-Resident retention operations dashboard from the HappyCo product case study.
+Resident retention operations dashboard from the real estate product case study.
 
 ![Retention Dashboard](https://raw.githubusercontent.com/PatrickImperato/happyco-resident-retention-platform/main/assets/manager-dashboard.png)
 
@@ -99,7 +99,7 @@ Repository
 
 ---
 
-## HappyCo Resident Retention Platform
+## Resident Retention Platform
 
 AI powered resident retention product case study showing how property teams can
 
